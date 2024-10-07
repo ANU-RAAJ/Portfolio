@@ -138,7 +138,12 @@ button {
   text-align: left;
   cursor: pointer;
 }
-
+.earth{
+  
+}
+.skate{
+  border-radius: 50%;
+}
 input, textarea {
   display: block;
   width: 100%;
